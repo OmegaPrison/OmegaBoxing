@@ -1,1 +1,11 @@
-
+body {
+  background-image: url(http://i.imgur.com/NViq5Y0.jpg);
+}
+.class {
+  color: lime;
+  text-align: center;
+}
+.a {
+  color: lime;
+  text-decoration: none;
+}
